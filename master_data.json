@@ -1,0 +1,248 @@
+{
+  "substitutes": [
+    {
+      "item": "Besan (Gram Flour)",
+      "substitute": "Kichererbsenmehl (Chickpea Flour)",
+      "category": "Flour",
+      "similarity_score": 0.9,
+      "culinary_use": "Used for pakoras, flatbreads, and sweets",
+      "store": "Asian stores, Organic stores",
+      "dietary_constraints": "Gluten-free"      
+    },
+    {
+      "item": "Maida (All-Purpose Flour)",
+      "substitute": "Weizenmehl Type 405 (Wheat Flour)",
+      "category": "Flour",
+      "similarity_score": 0.85,
+      "culinary_use": "Used for baking, flatbreads, and pastries",
+      "store": "Supermarkets",
+      "dietary_constraints": "Contains gluten"
+    },
+    {
+      "item": "Atta (Whole Wheat Flour)",
+      "substitute": "Weizen Vollkornmehl (Whole Wheat Flour)",
+      "category": "Flour",
+      "similarity_score": 0.9,
+      "culinary_use": "Used for making chapati and paratha",
+      "store": "Organic stores, Supermarkets",
+      "dietary_constraints": "Contains gluten"
+    },
+    {
+      "item": "Sooji (Semolina)",
+      "substitute": "Weizengrieß (Wheat Semolina)",
+      "category": "Grain",
+      "similarity_score": 0.85,
+      "culinary_use": "Used for upma, halwa, and baking",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Contains gluten"
+    },
+    {
+      "item": "Paneer",
+      "substitute": "Halloumi or Tofu",
+      "category": "Dairy/Plant-based",
+      "similarity_score": 0.7,
+      "culinary_use": "Used in curries and grilled dishes",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Dairy-free option available (Tofu)"
+    },
+    {
+      "item": "Dahi (Yogurt)",
+      "substitute": "Naturjoghurt (Plain Yogurt)",
+      "category": "Dairy",
+      "similarity_score": 0.9,
+      "culinary_use": "Used in curries, raita, and as a marinade",
+      "store": "Supermarkets",
+      "dietary_constraints": "Contains dairy"
+    },
+    {
+      "item": "Rajma (Red Kidney Beans)",
+      "substitute": "Kidneybohnen (Canned or Dried)",
+      "category": "Legumes",
+      "similarity_score": 0.95,
+      "culinary_use": "Used in curries and salads",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan"
+    },
+    {
+      "item": "Chana (Chickpeas)",
+      "substitute": "Kichererbsen (Canned or Dried)",
+      "category": "Legumes",
+      "similarity_score": 0.95,
+      "culinary_use": "Used in curries, salads, and hummus",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan"
+    },
+    {
+      "item": "Bakery Rusk",
+      "substitute": "Butter Zwieback",
+      "category": "Baked Goods",
+      "similarity_score": 0.8,
+      "culinary_use": "Used for snacks and tea-time",
+      "store": "Supermarkets",
+      "dietary_constraints": "Contains gluten"
+    },
+    {
+      "item": "Turmeric (Haldi)",
+      "substitute": "Kurkuma",
+      "category": "Spices",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in curries, rice, and soups",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Cumin (Jeera)",
+      "substitute": "Kreuzkümmel",
+      "category": "Spices",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in curries, rice, and spice blends",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Mustard Seeds (Rai)",
+      "substitute": "Senfkörner",
+      "category": "Spices",
+      "similarity_score": 0.95,
+      "culinary_use": "Used in tempering and pickling",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Nutmeg (Jaiphal)",
+      "substitute": "Muskatnuss",
+      "category": "Spices",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in desserts and curries",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Coriander Powder (Dhania)",
+      "substitute": "Korianderpulver",
+      "category": "Spices",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in curries, marinades, and spice blends",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Ghee",
+      "substitute": "Butter or a mix of butter and vegetable oil",
+      "category": "Fats",
+      "similarity_score": 0.7,
+      "culinary_use": "Used in cooking and desserts",
+      "store": "Supermarkets",
+      "dietary_constraints": "Contains dairy (butter)"
+    },
+    {
+      "item": "Mustard Oil",
+      "substitute": "Rapsöl (Canola Oil) or Sonnenblumenöl (Sunflower Oil)",
+      "category": "Fats",
+      "similarity_score": 0.8,
+      "culinary_use": "Used for cooking and pickling",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Coconut Milk",
+      "substitute": "Kokosmilch",
+      "category": "Dairy Alternative",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in curries and desserts",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Tamarind Paste",
+      "substitute": "Apfel- oder Dattelsirup (Apple or Date Syrup)",
+      "category": "Condiments",
+      "similarity_score": 0.7,
+      "culinary_use": "Used in curries, sauces, and chutneys",
+      "store": "Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Cilantro (Coriander Leaves)",
+      "substitute": "Frische Petersilie (Fresh Parsley)",
+      "category": "Herbs",
+      "similarity_score": 0.7,
+      "culinary_use": "Used in garnishes and chutneys",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Green Chilies",
+      "substitute": "Jalapeños or Mild Peppers",
+      "category": "Vegetables",
+      "similarity_score": 0.8,
+      "culinary_use": "Used in curries and pickles",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Yeast (Khameer)",
+      "substitute": "Hefe",
+      "category": "Leavening Agent",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in baking and fermentation",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Jaggery (Gur)",
+      "substitute": "Brauner Zucker (Brown Sugar) or Kokoszucker (Coconut Sugar)",
+      "category": "Sweetener",
+      "similarity_score": 0.85,
+      "culinary_use": "Used in desserts and curries",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan"
+    },
+    {
+      "item": "Fennel Seeds (Saunf)",
+      "substitute": "Fenchelsamen",
+      "category": "Spices",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in pickles, spice blends, and desserts",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Poppy Seeds (Khus Khus)",
+      "substitute": "Mohnsamen",
+      "category": "Spices/Seeds",
+      "similarity_score": 0.9,
+      "culinary_use": "Used in desserts, curries, and baking",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Black Mustard Seeds",
+      "substitute": "Senfkörner (for flavor)",
+      "category": "Spices",
+      "similarity_score": 0.85,
+      "culinary_use": "Used in tempering, pickling, and curries",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Aamchur (Dried Mango Powder)",
+      "substitute": "Zitronensaft (Lemon Juice)",
+      "category": "Spices/Condiments",
+      "similarity_score": 0.7,
+      "culinary_use": "Used in chutneys, curries, and for adding tanginess",
+      "store": "Supermarkets",
+      "dietary_constraints": "Vegan, Gluten-free"
+    },
+    {
+      "item": "Cardamom (Elaichi)",
+      "substitute": "Kardamom",
+      "category": "Spices",
+      "similarity_score": 1.0,
+      "culinary_use": "Used in desserts, teas, and curries",
+      "store": "Supermarkets, Organic stores",
+      "dietary_constraints": "Vegan, Gluten-free"
+    }
+  ]
+}
+
